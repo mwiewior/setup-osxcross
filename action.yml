@@ -1,6 +1,6 @@
-name: "Setup osxcross"
+name: "Setup osxcross (Timmmm)"
 author: mbround18
-description: Setup osxcross for rust/other compilation projects.
+description: This version is modified to support ARM. I intend to make a PR to the original repo.
 branding:
   icon: 'aperture'
   color: 'green'
