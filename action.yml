@@ -1,6 +1,6 @@
 name: "Setup osxcross (Timmmm)"
 author: mbround18
-description: This version is modified to support ARM. I intend to make a PR to the original repo.
+description: This version is modified to support ARM.
 branding:
   icon: 'aperture'
   color: 'green'
